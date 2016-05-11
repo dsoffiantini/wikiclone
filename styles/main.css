@@ -1,0 +1,36 @@
+.main-nav {
+  background: lightgray;
+  float: left;
+  clear: left;
+  height: 100vh;
+}
+.logo {
+  background: url("../images/Wikipedia-logo.png") center no-repeat;
+  float: left;
+  width: 240px;
+  padding: 30px;
+  clear: left;
+  background-color: lightgray;
+  background-size: contain;
+  height: 20vh;
+}
+
+.nav1 {
+  background: lightgray;
+  float: left;
+  width: 240px;
+  padding: 30px;
+  clear: left;
+}
+
+.nav2 {
+  background: lightgray;
+  float: left;
+  width: 240px;
+  padding: 30px;
+  clear: left;
+}
+
+h1 {
+  font-size: 28.8px;
+}
